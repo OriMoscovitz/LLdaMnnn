@@ -4,8 +4,6 @@ import itertools
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 # testing code protection upon a change
-def testing_commit():
-    pass
 
 class States:
     def __init__(self):
